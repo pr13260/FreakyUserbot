@@ -98,7 +98,7 @@ async def g_download(event):
 CMD_HELP.update(
     {
         "get_admin": "**Get_admin**\
-\n\n**Syntax : **`.get_admin`\
+\n\n**Syntax : **`.get_admin <query>`\
 \n**Usage :** lists all the admins in a group."
     }
 )
