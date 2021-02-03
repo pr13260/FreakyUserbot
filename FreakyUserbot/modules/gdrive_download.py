@@ -97,8 +97,8 @@ async def g_download(event):
 
 CMD_HELP.update(
     {
-        "get_admin": "**Get_admin**\
-\n\n**Syntax : **`.get_admin`\
-\n**Usage :** lists all the admins in a group."
+        "gdl link": "**download_from_Google_drive**\
+\n\n**Syntax : **`.gdl`\
+\n**Usage :** downloads files from Google drive warning only files."
     }
 )
